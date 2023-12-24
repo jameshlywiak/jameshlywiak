@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James Hlywiak
-- 👀 I’m a post-doctoral research fellow at the Naval Research Lab in Monterey, CA. I'm interested in modelling atmospheric processes, specifically the planetary and hurricane boundary and surface layers near land to better understand how thermal and roughness discontinuities affect turbulent fluxes. 
+- 👀 I’m a post-doctoral research fellow at the Naval Research Lab in Monterey, CA. I'm interested in modeling the atmospheric boundary layer over different environments, specifically near land. 
 - 📫 Reach me at james.hlywiak.ctr@nrlmry.navy.mil
 
 <!---
